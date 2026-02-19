@@ -1,0 +1,66 @@
+{
+  "businessName": "CANADA RECYCLE CORP",
+  "category": "Recycling",
+  "tagline": "Recycling concrete, asphalt, and wood-plus repurposed materials for sale.",
+  "address": "6230 OTWAY RD, Prince George, BC V2M 7B4",
+  "phone": "250-562-7660",
+  "email": "westernthermal@shaw.ca",
+  "notes": "Listing mentions recycling Concrete, Asphalt and Wood; selling Crushed Concrete, Crushed Asphalt and Wood Grindings.",
+  "services": [
+    {
+      "name": "Material recycling",
+      "desc": "Concrete, asphalt, and wood recycling (per listing)."
+    },
+    {
+      "name": "Repurposed materials for sale",
+      "desc": "Crushed concrete, crushed asphalt, and wood grindings (per listing)."
+    },
+    {
+      "name": "Drop-off details (confirm)",
+      "desc": "Accepted loads, requirements, and timing (to confirm)."
+    },
+    {
+      "name": "Contact for pricing",
+      "desc": "Encourage calling/emailing for current pricing."
+    }
+  ],
+  "palette": {
+    "bg": "#f3f8f5",
+    "text": "#1f2b28",
+    "accent": "#1b7d4c",
+    "accent2": "#0f5f7a"
+  },
+  "slug": "canada-recycle-corp",
+  "mapLink": "https://www.google.com/maps/search/?api=1&query=6230%20OTWAY%20RD%2C%20Prince%20George%2C%20BC%20V2M%207B4",
+  "serviceArea": "",
+  "placeholders": {
+    "hero": "Placeholder: hero image (yard, equipment, or material stock)",
+    "about": "Placeholder: recycled material yard photo",
+    "homeGallery": [
+      "Placeholder: yard entrance",
+      "Placeholder: concrete stockpile",
+      "Placeholder: asphalt material",
+      "Placeholder: wood grindings",
+      "Placeholder: loading area",
+      "Placeholder: equipment in operation",
+      "Placeholder: drop-off zone",
+      "Placeholder: repurposed materials lineup",
+      "Placeholder: safety signage",
+      "Placeholder: yard overview",
+      "Placeholder: team snapshot",
+      "Placeholder: Prince George service area photo"
+    ],
+    "servicesGallery": [
+      "Placeholder: concrete recycling",
+      "Placeholder: asphalt recycling",
+      "Placeholder: wood recycling",
+      "Placeholder: crushed concrete product",
+      "Placeholder: crushed asphalt product",
+      "Placeholder: wood grindings product",
+      "Placeholder: truck drop-off",
+      "Placeholder: load inspection",
+      "Placeholder: contact/pricing workflow",
+      "Placeholder: yard operations detail"
+    ]
+  }
+}
